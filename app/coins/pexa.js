@@ -53,7 +53,7 @@ module.exports = {
 	name:"PexaCoin",
 	ticker:"PEXA",
 	logoUrlsByNetwork:{
-		"main":"/img/logo/btc.svg",
+		"main":"https://ustx0.easyx.cc/img/icons/PEXA_PEXACOIN.png",
 		"test":"/img/logo/tbtc.svg",
 		"regtest":"/img/logo/tbtc.svg"
 	},
