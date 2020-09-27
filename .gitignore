@@ -1,6 +1,9 @@
 # Access Token (kthx)
 access-token
 
+# Temporary files
+*~
+
 # Logs
 logs
 *.log
