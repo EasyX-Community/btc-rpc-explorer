@@ -53,7 +53,7 @@ module.exports = {
 	name:"Placeholders",
 	ticker:"PHL",
 	logoUrlsByNetwork:{
-		"main":"/img/logo/btc.svg",
+		"main":"https://ustx0.easyx.cc/img/icons/PHL_PLACEHOLDERS.svg",
 		"test":"/img/logo/tbtc.svg",
 		"regtest":"/img/logo/tbtc.svg"
 	},
