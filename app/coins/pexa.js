@@ -54,8 +54,8 @@ module.exports = {
 	ticker:"PEXA",
 	logoUrlsByNetwork:{
 		"main":"https://ustx0.easyx.cc/img/icons/PEXA_PEXACOIN.png",
-		"test":"/img/logo/tbtc.svg",
-		"regtest":"/img/logo/tbtc.svg"
+		"test":"https://ustx0.easyx.cc/img/icons/PEXA_PEXACOIN.png",
+		"regtest":"https://ustx0.easyx.cc/img/icons/PEXA_PEXACOIN.png"
 	},
 	siteTitlesByNetwork: {
 		"main":"PexaCoin Explorer",

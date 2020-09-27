@@ -54,8 +54,8 @@ module.exports = {
 	ticker:"PHL",
 	logoUrlsByNetwork:{
 		"main":"https://ustx0.easyx.cc/img/icons/PHL_PLACEHOLDERS.svg",
-		"test":"/img/logo/tbtc.svg",
-		"regtest":"/img/logo/tbtc.svg"
+		"test":"https://ustx0.easyx.cc/img/icons/PHL_PLACEHOLDERS.svg",
+		"regtest":"https://ustx0.easyx.cc/img/icons/PHL_PLACEHOLDERS.svg"
 	},
 	siteTitlesByNetwork: {
 		"main":"Placeholders Explorer",
